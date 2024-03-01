@@ -137,7 +137,7 @@ body{
 }
 
 #hero{
-    background-image: url("new/image6.jpg");
+    background-image: url("https://i.postimg.cc/13D65dbY/image6.jpg");
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -155,7 +155,7 @@ body{
     color: #088178;
 }
 #hero button{
-    background-image: url("images/button.img");
+    background-image: url("");
     background-color: transparent;
     color: #088178;
     border: 0;
@@ -299,7 +299,7 @@ right: 10px;
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url("images/background1.jpg");
+    background-image: url("https://i.postimg.cc/JhJgryby/background1.jpg");
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -337,7 +337,7 @@ right: 10px;
     justify-content: center;
     align-items: flex-start;
     text-align: center;
-    background-image: url("images/banner1.jpg");
+    background-image: url("https://i.postimg.cc/SxCyYK49/banner1.jpg");
     min-width: 580px;
     height: 50vh;
     background-size: cover;
@@ -366,7 +366,7 @@ right: 10px;
     border: 1px solid #088178;
 }
 #sm-banner .banner-box2{
-    background-image: url("images/banner2.jpg");
+    background-image: url("https://i.postimg.cc/j5pTjV1c/banner2.jpg");
 }
 #banner3{
     display: flex;
@@ -380,7 +380,7 @@ right: 10px;
     justify-content: center;
     align-items: flex-start;
     text-align: center;
-    background-image: url("images/banner3.jpg");
+    background-image: url("https://i.postimg.cc/SRSrCRHx/banner3.jpg");
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -389,10 +389,10 @@ right: 10px;
     margin-bottom: 20px;
 }
 #banner3 .banner-box2{
-    background-image: url('images/banner4.jpg');
+    background-image: url('https://i.postimg.cc/5y2cPxDs/banner4.jpg');
 }
 #banner3 .banner-box3{
-    background-image: url('images/banner5.jpg');
+    background-image: url('https://i.postimg.cc/T2KqM8GS/banner5.jpg');
 }
 
 #banner3 h2{
@@ -515,6 +515,16 @@ footer .copyright{
     text-align: center;
 }
 
+.Store{
+    width: 90px;
+    height: 40px;
+}
+
+.pay{
+    width: 90;
+    height: 50px;
+}
+
 @media (max-width:799px) {
     .section-p1{
         padding: 40px 40px;
@@ -609,7 +619,7 @@ footer .copyright{
     }
     #hero{
         padding: 0 20px;
-        background-position: 55%;
+        background-position: 75%;
     }
     #section-p1{
         padding: 20px;
